@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "CharybdisBehavior"
 versionNumber = "1.0.0"
 description = "At phase transition, Tentacles despawn in 1s (not 9s). Charybdis fires 6 spits instead of 8."
-websiteUrl = "https://github.com/maybe-adamant/h2-pack-CharybdisBehavior"
+websiteUrl = "https://github.com/maybe-adamant/h2-modpack-CharybdisBehavior"
 containsNsfwContent = false
 
 [package.dependencies]
