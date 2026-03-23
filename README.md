@@ -6,7 +6,6 @@
 
 - Reduces the despawn time for tentacles from 9 seconds to 1 second during phase transitions.
 - Reduces the number of projectiles Charybdis fires from 8 to 6.
-- These changes make the fight quicker and more focused on the main boss.
 
 ## Installation
 
