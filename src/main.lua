@@ -27,6 +27,7 @@ public.definition = {
     tooltip  = "At phase transition, Tentacles despawn in 1s (not 9s). Charybdis fires 6 spits instead of 8.",
     default  = false,
     dataMutation = true,
+    modpackModule = true,
 }
 
 -- =============================================================================
